@@ -1,6 +1,7 @@
 flask
 pandas
 scikit-learn
+xgboost
 requests
 joblib
 python-dotenv
