@@ -3,3 +3,6 @@ venv/
 
 # Abaikan file konfigurasi environment
 .env
+
+# Abaikan file yang tidak penting
+claude.txt
